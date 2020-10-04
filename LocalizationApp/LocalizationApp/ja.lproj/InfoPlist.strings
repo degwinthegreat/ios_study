@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  LocalizationApp
+
+  Created by 川井田新介 on 2020/10/03.
+  
+*/
+CFBundleDisplayName = "日本語アプリ";
